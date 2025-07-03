@@ -1,2 +1,2 @@
-# crypto-defi-dashboard
-A simple DeFi dashboard that tracks token prices, wallet balances, and staking rewards using web3.js.
+# crypto-defi
+A React-based DeFi dashboard for tracking real-time crypto prices, wallet balances, and staking performance.
